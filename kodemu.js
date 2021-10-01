@@ -1,8 +1,8 @@
-var timeleft = 10;
+var timeleft = 75;
 var downloadTimer = setInterval(function(){
   if(timeleft <= 0){
     clearInterval(downloadTimer);
-    document.getElementById("countdown").innerHTML = "{best|good|amazing}-{tool|generator}";
+    document.getElementById("countdown").innerHTML = "NYIRAMFRIDAY6647";
   } else {
     document.getElementById("countdown").innerHTML = timeleft + " seconds Code";
   }
