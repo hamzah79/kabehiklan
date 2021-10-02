@@ -2,7 +2,7 @@ var timeleft = 100;
 var downloadTimer = setInterval(function(){
   if(timeleft <= 0){
     clearInterval(downloadTimer);
-    document.getElementById("countdown").innerHTML = "NYIRAMGACOR6647";
+    document.getElementById("countdown").innerHTML = "SAYEMBARACUAN5758";
   } else {
     document.getElementById("countdown").innerHTML = timeleft + " seconds Code";
   }
