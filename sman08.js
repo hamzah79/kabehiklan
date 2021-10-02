@@ -12,8 +12,8 @@
                         ]);
 
     var ars             = rChoice([
-                            "https://karirjet.com",
-                            "https://karirjet.com",
+                            "https://karirjet.com/",
+                            "https://karirjet.com/",
                         ]);
 
 
