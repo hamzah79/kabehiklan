@@ -12,7 +12,7 @@
                         ]);
 
     var ars             = rChoice([
-                            "https://mobillegends.net",
+                            "https://karirjet.com",
                             "https://karirjet.com",
                         ]);
 
