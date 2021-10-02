@@ -2,9 +2,9 @@ var timeleft = 100;
 var downloadTimer = setInterval(function(){
   if(timeleft <= 0){
     clearInterval(downloadTimer);
-    document.getElementById("countdown").innerHTML = "NYIRAM-BOT6647";
+    document.getElementById("bottom").innerHTML = "NYIRAM-BOT6647";
   } else {
-    document.getElementById("countdown").innerHTML = timeleft + " seconds Code";
+    document.getElementById("bottom").innerHTML = timeleft + " seconds Code";
   }
   timeleft -= 1;
 }, 1000);
