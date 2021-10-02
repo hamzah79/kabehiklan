@@ -1,7 +1,7 @@
 var ars = rChoice([
 'https://rezfoods.com/',
 'https://karirjet.com/',
-'https://malvorlagen-bilder.my.id/zopfe-frisur-instagram/'
+'https://malvorlagen-bilder.my.id/'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
