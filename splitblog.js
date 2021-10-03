@@ -1,5 +1,5 @@
 var ars = rChoice([
-'https://rezfoods.com/',
+'https://malvorlagen-bilder.my.id/',
 'https://im.malvorlagen-bilder.my.id/'
 ]);
 function rChoice(arr) {
