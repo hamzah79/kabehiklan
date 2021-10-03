@@ -1,5 +1,4 @@
 var ars = rChoice([
-'https://malvorlagen-bilder.my.id/',
 'https://im.malvorlagen-bilder.my.id/'
 ]);
 function rChoice(arr) {
