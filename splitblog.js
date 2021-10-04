@@ -1,5 +1,6 @@
 var ars = rChoice([
-'https://im.malvorlagen-bilder.my.id/'
+'https://im.malvorlagen-bilder.my.id/',
+ 'https://malvorlagen-bilder.my.id/'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
