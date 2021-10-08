@@ -1,6 +1,4 @@
 var ars = rChoice([
-'https://im.malvorlagen-bilder.my.id/',
- 'https://malvorlagen-bilder.my.id/',
  'https://reverasite.com/',
  'https://daily.reverasite.com/'
 ]);
