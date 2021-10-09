@@ -1,4 +1,5 @@
 var ars = rChoice([
+ 'https://daily.reverasite.com/',
  'https://reverasite.com/',
  'https://daily.reverasite.com/'
 ]);
