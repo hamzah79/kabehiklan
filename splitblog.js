@@ -1,7 +1,6 @@
 var ars = rChoice([
  'https://daily.reverasite.com/',
- 'https://reverasite.com/',
- 'https://daily.reverasite.com/'
+ 'https://reverasite.com/'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
