@@ -1,7 +1,4 @@
 var ars = rChoice([
- 'https://pabalatak.com/',
- 'https://taxmile.pabalatak.com/',
- 'https://pabalatak.com/',
  'https://rezfoods.com'
 ]);
 function rChoice(arr) {
