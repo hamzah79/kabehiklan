@@ -1,4 +1,4 @@
-var timeleft = 100;
+var timeleft = 120;
 var downloadTimer = setInterval(function(){
   if(timeleft <= 0){
     clearInterval(downloadTimer);
