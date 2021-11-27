@@ -1,5 +1,5 @@
 var ars = rChoice([
- 'https://karirjet.com'
+ 'https://tixtax.karirjet.com'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
