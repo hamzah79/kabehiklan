@@ -1,8 +1,6 @@
 var ars = rChoice([
- 'https://karirjet.com',
  'https://dayinfo.xyz',
  'https://wallnime.com',
- 'https://tixtax.karirjet.com',
  'https://get-tax.wallnime.com'
 ]);
 function rChoice(arr) {
