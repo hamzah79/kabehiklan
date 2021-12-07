@@ -2,7 +2,8 @@ var ars = rChoice([
  'https://karirjet.com',
  'https://dayinfo.xyz',
  'https://wallnime.com',
- 'https://tixtax.karirjet.com'
+ 'https://tixtax.karirjet.com',
+ 'https://get-tax.wallnimecom'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
