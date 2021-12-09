@@ -2,6 +2,7 @@ var ars = rChoice([
  'https://dayinfo.xyz',
  'https://wallnime.com',
  'https://get-tax.wallnime.com',
+ 'https://attorney.dayinfo.xyz',
  'https://reverasite.com'
 ]);
 function rChoice(arr) {
