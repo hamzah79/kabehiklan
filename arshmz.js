@@ -3,7 +3,7 @@
 	var uads 	= sessionStorage.getItem('uads');
 	var go_current  = window.location.href;
 
-	var arr_ars 	= ["https:\/\/pabalatak.com\/"];
+	var arr_ars 	= ["https://pabalatak.com/"];
 
 	function rChoice(arr) {
 	    return arr[Math.floor(arr.length * Math.random())];
