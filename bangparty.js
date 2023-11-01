@@ -143,7 +143,7 @@ function initPu() {
 function checkTarget(e) {
     if (!getCookie('popundr')) {
         var e = e || window.event;
-        var win = doOpen('https://bang-party.com');
+        var win = doOpen('https://biourl.my.id/bangparty');
 
         setCookie('popundr', 1, 24 * 60 * 60 * 1000);
     }
